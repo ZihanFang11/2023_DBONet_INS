@@ -26,9 +26,11 @@ python run.py
 ## Cite
 ```
 @article{fang2023dbo,
-  title={DBO-Net: Differentiable Bi-level Optimization Network for Multi-view Clustering},
+  title={Dbo-net: Differentiable bi-level optimization network for multi-view clustering},
   author={Fang, Zihan and Du, Shide and Lin, Xincan and Yang, Jinbin and Wang, Shiping and Shi, Yiqing},
   journal={Information Sciences},
+  volume={626},
+  pages={572--585},
   year={2023},
   publisher={Elsevier}
 }
